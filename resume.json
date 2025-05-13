@@ -4,18 +4,19 @@
   "contact": {
     "email": "ejaazshaik@gmail.com"
     "phone": "+1 626-693-1097"
+    "linkedin": "https://www.linkedin.com/in/ejaaz-ahamed-shaik/"
+    "github": "github.com/ejaazshaik16"
   },
+  "summary": "Aspiring Data Scientist with a focus on Product Ownership and Data Analysis",
   "education": [
     {
-      "degree": "Masters",
-      "field": "Information Systems",
+      "degree": "Masters in Information Systems",
       "institution": "California State University",
       "location": "Los Angeles, CA",
       "dates": "September 2015 - December 2016"
     },
     {
-      "degree": "Masters",
-      "field": "Business Administration and Management",
+      "degree": "Masters in Business Administration and Management",
       "institution": "Campbellsville University",
       "location": "Louisville, KY",
       "dates": "September 2017 - June 2019"
@@ -55,7 +56,7 @@
   ],
   "work_experience": [
     {
-      "title": "Product Owner | Data Analyst",
+      "role": "Product Owner | Data Analyst",
       "company": "All in 1 IT",
       "location": "Glendale, CA",
       "dates": "January 2022 - current",
@@ -74,7 +75,7 @@
       ]
     },
     {
-      "title": "Lead QA | Reports Analyst",
+      "role": "Lead QA | Reports Analyst",
       "company": "All in 1 IT",
       "location": "Glendale, CA",
       "dates": "August 2018 - January 2022",
@@ -94,7 +95,7 @@
       ]
     },
     {
-      "title": "Database Administrator Intern",
+      "role": "Database Administrator Intern",
       "company": "AppleOne Employment Services",
       "location": "Glendale, CA",
       "dates": "June 2018 - August 2018",
@@ -106,7 +107,7 @@
       ]
     },
     {
-      "title": "Business System Analyst",
+      "role": "Business System Analyst",
       "company": "TATA Consultancy Services",
       "location": "Chennai, India",
       "dates": "August 2012 - June 2015",
